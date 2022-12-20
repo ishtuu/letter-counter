@@ -1,0 +1,39 @@
+/* Write your code here. */
+.upper-container{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.image{
+    width:200px;
+    height: 200px;
+}
+.img-text-container{
+    display: flex;
+    flex-direction: row;
+}
+.count-container{
+    background-image: linear-gradient(#1d976c #93f9b9);
+    height: 100vh;
+}
+.h1{
+    font-size: 40px;
+    color: #ffffff
+}
+.p{
+    font-size: 20px;
+    color: #ffffff
+}
+.placeholder{
+    color: #e4e7eb
+}
+.button{
+    width:150px;
+    height:30px;
+    border-radius: 10px;
+    color: #219a6f;
+    font-size: 30px;
+}
+.img-container{
+    text-align: right;
+}
